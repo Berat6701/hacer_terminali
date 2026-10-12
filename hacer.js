@@ -64,4 +64,4 @@ function barDoldur() {
         document.getElementById("baslatBtn").innerHTML = "[ BAĞLANTI KESİLDİ ]";
         document.getElementById("baslatBtn").disabled = true; // Butonu tamamen kilitle
     }
-}
+}f
